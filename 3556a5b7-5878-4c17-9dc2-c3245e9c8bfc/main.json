@@ -1,1 +1,1 @@
-{"allocations": {"META": 18.0, "SNAP": 12.0, "SPOT": 15.0, "LULU": 10.0, "RBLX": 8.0, "UBER": 10.0, "SQ": 12.0, "AMZN": 10.0, "NVDA": 5.0}, "frequency": 3, "name": "", "period": "months"}
+{"allocations": {"META": 18.0, "SNAP": 12.0, "SPOT": 15.0, "LULU": 10.0, "RBLX": 8.0, "UBER": 10.0, "SQ": 12.0, "AMZN": 10.0, "NVDA": 5.0}, "frequency": 30, "name": "Diversified Growth Strategy", "period": "days"}
